@@ -1,0 +1,6 @@
+@Task3LCMApp_HostAddress = http://localhost:5018
+
+GET {{Task3LCMApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
